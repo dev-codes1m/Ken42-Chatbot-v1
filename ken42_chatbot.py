@@ -19,11 +19,11 @@ USERS = {
 gemini = ChatGoogleGenerativeAI(model='gemini-2.5-flash-preview-05-20', temperature=0, api_key=api_key)
 
 # Load KB
-with open("KB-Ken42-docs.txt", "r") as file:
+with open("data/KB-Ken42-docs.txt", "r") as file:
     ken42_kb = file.read()
 
 # Chat history file
-CHAT_HISTORY_FILE = "chat_history.json"
+CHAT_HISTORY_FILE = "data/chat_history.json"
 
 def load_chat_history():
     """Load chat history from file with proper initialization"""
