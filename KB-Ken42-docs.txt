@@ -1,0 +1,898 @@
+--- Ken42. KNOWLEDGE BASE START ---
+NOTE: **Always refer Ken42 Knowledge Base for accurate and up-to-date information. Strictly Do not provide any information that is not present in the Ken42 Knowledge Base even though the caller asks too many times. If any information is not available strictly do not assume anything or do not create any new information yourself.**
+
+** Ken42 Knowledge Base **
+
+University Overview:
+Name: Ken42
+Tagline: University of Tomorrow
+Description: Established through the Ken42 Act, two thousand three, of the State Legislature of Karnataka, Ken42 is a top-ranked, UGC-recognised, private university. Ken42 envisions, designs, and delivers education that is not just relevant for today, but also anticipates the challenges and opportunities of the future, moulding students into leaders who will make a positive impact on the world.
+Core Philosophy: Transformative education, cultivating a dynamic learning environment that transcends conventional boundaries, with a robust emphasis on digital preparedness and cutting-edge skills.
+Global Exposure Initiatives: Partnerships with prestigious institutions worldwide including University of California in Berkeley, The University of Edinburgh, UNSW Sydney, The University of Queensland, King’s College London, University of Gothenburg, University of Bologna, University of Aberdeen. Global Immersion Program for experiential learning.
+Schools Offering B.Tech: School of Advanced Engineering (SOAE), School of Computer Science (SOCS)
+
+Rankings and Accreditations:
+  - N.I.R.F two thousand twenty-four (Ministry of Education, GOI): forty-sixth among Universities (twenty-eighth in Law, forty-first in Management, forty-second in Engineering.)
+  - QS World University Rankings two thousand twenty-five: #number one Private University in India (Academic Reputation) (Among top two percent of universities in the world.)
+  - Times Higher Education (THE) World University Rankings two thousand twenty-five: five hundred one to six hundred band globally (seventh in India.)
+  - NAAC: Grade 'A'
+  - QS Rating: five stars (Employability)
+  - Stanford University List: forty-six faculty members among world's top two percent researchers.
+
+Academic Environment:
+  Design Your Own Degree:
+  Concept: A holistic curriculum framework focusing on individual student needs to discover, experience, explore, and challenge.
+  Components:
+    - Core Subject Studies
+    - Core Specialism Studies (one hundred fifty plus specializations across seven schools)
+    - Minors/Exploratory Subjects
+    - Signature and Life Skills Learning (offered by School for Life)
+  Internships: Mandatory internships in social sector, government/public sector, and industry.
+
+School for Life (SFL):
+  Description: An intrinsic part of the Ken42 student experience, facilitating a balance between what students want and what is needed for them as future global citizens and leaders. Focuses on lifelong learning skills, contemporary issues, and a mandatory social/professional internship.
+  Offerings:
+    - Signature Courses: Focus on twenty-first-century learner skills and attributes, empowering students as global citizens. Undertaken by all UG and select graduate students.
+    - Exploratory Courses (Interdisciplinary Electives): Encourage a broad-based approach by selecting subjects from other Ken42 schools, growing breadth and depth of knowledge beyond chosen specialization.
+    - Life Skill Courses: Upskill in university learning styles, enhance employability, communication, management, professional skills, critical thinking, problem-solving, and creativity.
+    - 'Srijan' Social Internships: Full-time, eight-week-long internships with social sector organisations for all first-year students. Builds empathy and leadership skills.
+
+Faculty Profile:
+  Quality: Faculty from renowned institutions like IITs, IISc, Ivy League universities, and international scholars (Nobel Prize Nominee, Rhodes, Fulbright, Chevening, Commonwealth, Erasmus, Eiffel, DAAD scholars).
+  Research Excellence: forty-six Ken42 faculty members featured among the world’s top two percent researchers (Stanford University study).
+
+Exploratory Minors for B.Tech:
+  - School of Advanced Engineering (SOAE): Minor in Aerospace Engineering, Minor in Applied Petroleum Engineering, Minor in Chemical Engineering, Minor in Chemistry, Minor in Civil Engineering, Minor in Electrical Engineering, Minor in Electronics Engineering, Minor in Energy Systems and Storage, Minor in Fire Safety Engineering, Minor in Geoinformatics, Minor in Mathematics, Minor in Mechanical Engineering, Minor in Physics, Minor in Sustainability Engineering (Offered to: All other schools)
+  - School of Business (SOB): Minor in Analytics and Big Data, Minor in Digital Business, Minor in Finance, Minor in Foreign Trade, Minor in Human Resources Management, Minor in Marketing Management, Minor in Strategic Management, Minor in Supply Chain Management (Offered to: Within school and all other schools)
+  - School of Computer Science (SOCS): Minor in Artificial Intelligence & Machine Learning, Minor in Big Data, Minor in Cloud Computing and Virtualization Technology, Minor in Cybersecurity and Digital Forensics, Minor in Data Science, Minor in DevOps, Minor in Fullstack Development, Minor in Graphics and Gaming, Minor in Internet of Things (IoT) (Offered to: All other schools)
+  - School of Liberal Studies (SOLS): Minor in Economics, Minor in Psychology and Behaviour (Offered to: All other schools)
+  - School of Media and Mass Communication (SOMM): Minor in Media Studies (Offered to: All other schools)
+  - School of Health Sciences and Technology (SOHST): Basic and Applied Health Sciences (Offered to: All other schools)
+
+Research and Innovation:
+  Overview: Ken42 is a hub for innovation and scholarly pursuits, contributing to solving critical local and global problems.
+  Initiatives:
+    - Internal SEED funding for research ideas.
+    - Capacity-building initiative 'Anusandhan'.
+    - IPR Cell for technology transfer through patents and copyrights.
+  Milestones (May two thousand twenty-four):
+    - One of the fastest-growing universities in India for research output (four papers per faculty per year).
+    - Average citations similar to top institutions like MIT, NUS, Oxford, Cambridge.
+    - Nearly fifty-four percent of publications in two thousand twenty-four had international co-authors.
+    - Scholarly output grown by more than three hundred seventy percent since two thousand eighteen.
+    - Field-Weighted Citation Impact: one point seven six (two thousand twenty-three), one point five nine (two thousand twenty-four).
+    - thirty percent of publications in top ten percent journals by CiteScore percentiles.
+  Industry Collaborations & Global Partnerships:
+    - Collaboration with Russian bioenergy experts for biodiesel production using AI/ML.
+    - Collaborations with CERN (Switzerland) and KEK (Japan) for Future Circular Collider (FCC) and Belle II projects.
+    - Partnership with Bajaj Auto Limited for Bajaj Engineering Skills Training (BEST) and labs in Robotics, Mechatronics, IoT, Smart Manufacturing.
+
+Runway - Start Your Start-up Journey (Startup Support):
+  Description: Ken42's business incubator, encourages student-led start-ups, fostering a culture of entrepreneurship and innovation.
+  Support Provided: Mentorship, grants, investments, legal and incorporation support, allocation of workspaces.
+  Achievements:
+    - Startups with university grants: seventy-five plus
+    - Pre-incubated startups: two hundred fifty plus
+    - Funds raised by startups: ₹(three crore forty-six lakh)
+    - Prestigious grants received: ₹(five crore) DST to set up iTBI, ₹(five crore) to set up Atal Community Innovation Centre (ACIC) (Approved by NITI Aayog), ₹(four crore two lakh) BIRAC Sparsh, ₹(four crore ninety lakh) MEITY Genesis Scheme Grant Funding, ₹(two crore) State Business Incubator-Grant Support.
+
+Industry Interface:
+  Alliances: Virtusa, IBM, CompTIA, HP, JSW, Bajaj, L&T Technology Services, Infosys, AWS.
+  Advisory Board Experts: Dr. NK Goel (IIT Roorkee), Dr. D. Kanjilal (Raja Ramanna Fellow), Dr. R. K. Malhotra (Former Director R&D, Petrofed), Prof. A.K. Nangia (University of Hyderabad), Prof. Gautam R. Desiraju (IISc Bangalore), Prof. Vikram Chandra Thakur (Wadia Institute), Prof. Ravi Vatrapu (Toronto Metropolitan University), Mr. Pavan Chavali (CEO & Co-Founder, ROQIT), Ms. Bharti Goyal Maan (VP, Capgemini), Dr. Shailesh Kumar (Chief Data Scientist, COE AI/ML, JIO), Manik Garg (Alumni, Senior Security GRC Engineer, Atlassian).
+  Masterclasses by Stalwarts: Dr. Deepak Vohra (Ambassador, Made in India), Dr. K Sivan (Former Chairman, ISRO), Mr. Anand Kumar (Mathematician-Academician Super thirty), AI Applications by Mithun Kumar (Senior Software Engineer, Google), AI Workshop with IIT Ropar, Medical Imaging Analysis by London South Bank University, Future of AI by Amit Mehta (Head Business Development, AWS Education & Training), Tech landscape at Code Hustle by Shikhar Goel (CTO, GeeksforGeeks).
+
+Student Outcomes and Recruiters:
+  Placement Statistics two thousand twenty-two:
+    - Overall placement rate: one hundred percent (for opted and eligible students)
+    - Highest package LPA: (fifty lakh) LPA*
+    - Top ten percent avg CTC LPA: (eighteen lakh six thousand) LPA*
+    - Total offers: two thousand seven hundred sixty plus
+    - Total recruiters: three hundred ten
+    Top Recruiters: Schlumberger, Boeing, Microsoft, Airbus, Reliance Industries Limited, Maruti Suzuki, Asian Paints, L&T Technology Services, IndiGo, Siemens, Vedanta, Hero.
+  Note: *T&C apply. Placement statistics refer to the number of students who opted for and were eligible for placements.
+
+Campus Life and Facilities:
+  Student Activities:
+    - Chapters and Clubs: Over twenty student chapters (Society of Petroleum Engineers, Cloud Security Alliance, Society of Law and Literature, IEEE, Moot Court Association) and clubs (National Service Scheme, Ras Rang Raag, Avishkarnam, Sphurit).
+    - Events: Spandan (annual youth festival), 'Wow Wednesday' (mid-week talent showcase).
+  Sports and Personal Development: Sports events and activities for personal growth, skill development, discipline, team spirit, patience, resilience.
+  Lab Facilities: Alternate Energy Lab, High Performance Computational Lab, Rig Zone, Aerodynamics Lab, Bosch Lab, HSE lab, Robotics Lab, Graphics And Gaming Lab, Machine Intelligence Research Centre (MIRC), Centre for Stochastic Modelling and Simulation, Centre for Data Science and Artificial Intelligence, X-Ray Diffractometer.
+  Hostel Facility:
+    - Availability: Limited on-campus accommodation on first-come-first-serve basis, separate for boys and girls.
+    - Fee Payment: Complete fee in advance.
+    - General Services: Deep Cleaning and Sanitization, Hostel Access Control, Mess and Food Outlets, Medical Facilities, Security Procedures at Entry Gates.
+    - Academic Session two thousand twenty-five to twenty-six Fee: Hostel fees vary by campus (Bangalore) and room type (Triple Sharing Common/Attached Washroom, Double Sharing Attached/AC Attached Washroom). Refer to detailed fee structure for specific rates.
+    - Security Deposit: Interest-free refundable Hostel Security Fee of Rupees. (ten thousand)/- at registration.
+    - Refund Policy: As per University Norms. No refund if withdrawal during academic year unless vacancy is filled.
+  Sports Infrastructure: Top-tier natural turf cricket ground with floodlights, locker rooms, dugouts. three natural turf and cemented cricket nets with floodlights. two premium synthetic basketball courts. two synthetic outdoor volleyball courts. two indoor badminton courts (plans to expand). two semi-indoor badminton courts. three hostel badminton courts (one men's, two women's). High-quality table tennis equipment. Fully equipped gym with professional trainers.
+  Medical Facilities: Basic healthcare, doctors on roll for first aid, assistance in evacuation to nearest hospital. Cost borne by student/parent. Insurance card to be kept handy.
+  Transportation: Facility available from Bangalore city to Ken42 campus for a fee of Rupees. (twenty-nine thousand)/- for AY two thousand twenty-five to twenty-six. No refund in case of withdrawal.
+
+B.Tech Programs:
+
+1. B.Tech (Applied Petroleum Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Energy Systems and Storage, Gas Engineering Informatics, Intelligent Petroleum Systems
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh twenty-nine thousand), Academic Service Fee: (eighty-six thousand), Total: (two lakh fifteen thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh thirty-nine thousand), Academic Service Fee: (ninety-two thousand), Total: (two lakh thirty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh forty-nine thousand), Academic Service Fee: (one lakh), Total: (two lakh forty-nine thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh sixty thousand), Academic Service Fee: (one lakh seven thousand), Total: (two lakh sixty-seven thousand) per sem
+    - The total college fees for B.Tech for 4 years (Applied Petroleum Engineering) is (nineteen lakh twenty-four thousand).
+  Global Pathway Option: B.Tech (Applied Petroleum Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Aberdeen
+    - Ken42 First Year Fee: INR (four lakh thirty thousand)
+    - Partner University Program: Bachelor of Engineering (Petroleum)
+    - Partner Intl Fees per year: £ twenty-four thousand eight hundred
+    - Scholarship at Partner: twenty percent in tuition fee
+    - Fees at Partner after scholarship: £ nineteen thousand eight hundred forty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh ninety-eight thousand seventy-four) (one Pound=one hundred ten point seven nine INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Successful completion of first two years of Ken42 Course with CGPA of eight out of ten.
+    - English Requirement: IELTS six point zero (min five point five in each component; writing module atleast six point zero)
+
+2. B.Tech (Aerospace Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Defence Technology, Avionics, Space Technology
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Chemical Engineering) is (twelve lakh fifty-nine thousand).
+
+3. B.Tech (Chemical Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Energy Systems and Storage, Refining and Petrochemicals, Digitalization of Process Technology
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+  - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+  - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+  - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+  - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+  - The total college fees for B.Tech (Chemical Engineering) is (twelve lakh fifty-nine thousand).
+  Global Pathway Options:
+  - Option one: B.Tech (Chemical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Queensland
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: Bachelor of Engineering (Hons.) (Chemical)
+    - Partner Intl Fees per year: AUD $ fifty-three thousand seven hundred sixty
+    - Scholarship at Partner: twenty-five percent in tuition fee for the duration of the program
+    - Fees at Partner after scholarship: AUD $ forty thousand three hundred twenty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh seventy thousand four hundred twenty-six) (one AUD = fifty-three point eight three INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+    - English Requirement: IELTS (Overall six point five with no less than six point zero in each module)
+  - Option two: B.Tech (Chemical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Edinburgh, UK
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: B.Eng. Chemical Engineering
+    - Partner Intl Fees per year: £ thirty-six thousand eight hundred
+    - Scholarship at Partner: £ three thousand five hundred
+    - Fees at Partner after scholarship: £ thirty-three thousand three hundred
+    - Fees at Partner (INR equivalent): Approx. INR (thirty-six lakh eighty-nine thousand three hundred seven) (one Pound=one hundred ten point seven nine INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+    - English Requirement: IELTS (or equivalent) score of seven point zero with no element lower than six point zero
+
+4. B.Tech (Electronics and Computer Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Microelectronics, five G and six G Technology, AI & ML Applications
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Electronics and Computer Engineering) is (twelve lakh fifty-nine thousand).
+    
+5. B.Tech (Electrical Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: E-Vehicle & Industrial drives, AI & ML Applications, Smart Grid Technologies
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Electrical Engineering) is (twelve lakh fifty-nine thousand).
+  Global Pathway Options:
+  - Option one: B.Tech (Electrical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Queensland
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: Bachelor of Engineering (Hons.) (Electrical)
+    - Partner Intl Fees per year: AUD $ fifty-three thousand seven hundred sixty
+    - Scholarship at Partner: twenty-five percent in tuition fee for the duration of the program
+    - Fees at Partner after scholarship: AUD $ forty thousand three hundred twenty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh seventy thousand four hundred twenty-six) (one AUD = fifty-three point eight three INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+    - English Requirement: IELTS (Overall six point five with no less than six point zero in each module)
+  - Option two: B.Tech (Electrical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Edinburgh, UK
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: B.Eng. Electronics and Electrical Engineering
+    - Partner Intl Fees per year: £ thirty-six thousand eight hundred
+    - Scholarship at Partner: £ three thousand five hundred
+    - Fees at Partner after scholarship: £ thirty-three thousand three hundred
+    - Fees at Partner (INR equivalent): Approx. INR (thirty-six lakh eighty-nine thousand three hundred seven) (one Pound=one hundred ten point seven nine INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+    - English Requirement: IELTS (or equivalent) score of seven point zero with no element lower than six point zero
+
+6. B.Tech (Fire and Safety Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: No Specialization
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Fire and Safety Engineering) is (twelve lakh fifty-nine thousand).
+7. B.Tech (Mechanical Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Advanced Manufacturing, Defence Technology, Mechatronics, Automotive
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Mechanical Engineering) is (twelve lakh fifty-nine thousand).
+  Global Pathway Options:
+  - Option one: B.Tech (Mechanical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Queensland
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: Bachelor of Engineering (Hons.) (Mechanical)
+    - Partner Intl Fees per year: AUD $ fifty-three thousand seven hundred sixty
+    - Scholarship at Partner: twenty-five percent in tuition fee for the duration of the program
+    - Fees at Partner after scholarship: AUD $ forty thousand three hundred twenty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh seventy thousand four hundred twenty-six) (one AUD = fifty-three point eight three INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+    - English Requirement: IELTS (Overall six point five with no less than six point zero in each module)
+  - Option two: B.Tech (Mechanical Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Aberdeen
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: Bachelor of Engineering (Mechanical)
+    - Partner Intl Fees per year: £ twenty-four thousand eight hundred
+    - Scholarship at Partner: twenty percent in tuition fee
+    - Fees at Partner after scholarship: £ nineteen thousand eight hundred forty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh ninety-eight thousand seventy-four) (one Pound=one hundred ten point seven nine INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Successful completion of first two years of Ken42 Course with CGPA of eight out of ten.
+    - English Requirement: IELTS six point zero (min five point five in each component; writing module atleast six point zero)
+
+8. B.Tech (Civil Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: Transportation Engineering, Environmental Engineering, Construction Management
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Civil Engineering) is (twelve lakh fifty-nine thousand).
+  Global Pathway Option: B.Tech (Civil Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+    - Partner University: University of Aberdeen
+    - Ken42 First Year Fee: INR (two lakh eighty-two thousand)
+    - Partner University Program: Bachelor of Engineering (Civil)
+    - Partner Intl Fees per year: £ twenty-four thousand eight hundred
+    - Scholarship at Partner: twenty percent in tuition fee
+    - Fees at Partner after scholarship: £ nineteen thousand eight hundred forty
+    - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh ninety-eight thousand seventy-four) (one Pound=one hundred ten point seven nine INR as on twenty-eighth March two thousand twenty-five)
+    - Post Study Work Visa: two Years PSWV
+    - Eligibility Overseas: Successful completion of first two years of Ken42 Course with CGPA of eight out of ten.
+    - English Requirement: IELTS six point zero (min five point five in each component; writing module atleast six point zero)
+
+9. B.Tech (Sustainability Engineering)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: No Specialization
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+    Fee Structure (Normal Program): Follows B.Tech (Stream - two)- Non CS / Chemical Engineering fees
+    - Semesters one to two: Tuition Fee: (eighty-five thousand), Academic Service Fee: (fifty-six thousand), Total: (one lakh forty-one thousand) per sem
+    - Semesters three to four: Tuition Fee: (ninety-one thousand), Academic Service Fee: (sixty thousand), Total: (one lakh fifty-one thousand) per sem
+    - Semesters five to six: Tuition Fee: (ninety-eight thousand), Academic Service Fee: (sixty-five thousand), Total: (one lakh sixty-three thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh six thousand), Academic Service Fee: (sixty-eight thousand five hundred), Total: (one lakh seventy-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Sustainability Engineering) is (twelve lakh fifty-nine thousand).
+
+10. B.Tech (VLSI Design and Technology)
+  School: School of Advanced Engineering (SOAE)
+  Duration: four years
+  Specializations: No Specialization
+  Eligibility: Minimum fifty percent marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh eleven thousand), Academic Service Fee: (seventy-four thousand), Total: (one lakh eighty-five thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh twenty thousand), Academic Service Fee: (seventy-nine thousand), Total: (one lakh ninety-nine thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh twenty-eight thousand), Academic Service Fee: (eighty-five thousand), Total: (two lakh thirteen thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh thirty-eight thousand), Academic Service Fee: (ninety thousand five hundred), Total: (two lakh twenty-eight thousand five hundred) per sem
+    - The total college fees for B.Tech (VLSI Design and Technology) is (sixteen lakh fifty-one thousand).
+
+11. B.Tech (Computer Science and Engineering)
+  School: School of Computer Science (SOCS)
+  Duration: four years
+  Specializations: Artificial Intelligence and Machine Learning, Bigdata, Data Science, Cloud Computing and Virtualization Technology, Cyber Security & Digital Forensics, DevOps, Full Stack Development, Internet of Things, Graphics & Gaming, Core Computer Science
+  Eligibility: Minimum fifty percent Marks in Class tenth and twelfth. Along with fifty percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh forty-four thousand), Academic Service Fee: (ninety-six thousand), Total: (two lakh forty thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh fifty-two thousand), Academic Service Fee: (one lakh two thousand), Total: (two lakh fifty-four thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh sixty-two thousand), Academic Service Fee: (one lakh seven thousand), Total: (two lakh sixty-nine thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh seventy-one thousand), Academic Service Fee: (one lakh thirteen thousand five hundred), Total: (two lakh eighty-four thousand five hundred) per sem.
+    - The total college fees for B.Tech (Computer Science and Engineering) is (twenty lakh ninety-five thousand).
+  Global Pathway Options:
+    - Option one: B.Tech (Computer Science and Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus)
+      - Partner University: University of Queensland
+      - Ken42 First Year Fee: INR (four lakh eighty thousand)
+      - Partner University Program: Bachelor of Engineering (Hons.) (Software)
+      - Partner Intl Fees per year: AUD $ fifty-three thousand seven hundred sixty
+      - Scholarship at Partner: twenty-five percent in tuition fee for the duration of the program
+      - Fees at Partner after scholarship: AUD $ forty thousand three hundred twenty
+      - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh seventy thousand four hundred twenty-six) (one AUD = fifty-three point eight three INR as on twenty-eighth March two thousand twenty-five)
+      - Post Study Work Visa: two Years PSWV
+      - Eligibility Overseas: Fulfil first two years academic requirement in Ken42 (CGPA of five point five or more).
+      - English Requirement: IELTS (Overall six point five with no less than six point zero in each module)
+    - Option two: B.Tech (Computer Science and Engineering) Global Pathway Program (two Years Ken42 + two Years Overseas Campus) (Note: Partner program path options are two plus one for B.Sc. or two plus one plus one for B.Sc. (Hons) from UoA. GPP title implies two plus two.)
+      - Partner University: University of Auckland, NZ
+      - Ken42 First Year Fee: INR (four lakh eighty thousand)
+      - Partner University Program Options: two plus one pathway for Bachelor of Science (UoA), two plus one plus one pathway for Bachelor of Science (Hons) (UoA)
+      - Partner Intl Fees per year: NZ$ forty-three thousand two hundred forty-three – $ fifty-three thousand one hundred twenty-two*
+      - Scholarship at Partner: NA
+      - Fees at Partner after scholarship: NZ$ forty-three thousand two hundred forty-three – $ fifty-three thousand one hundred twenty-two*
+      - Fees at Partner (INR equivalent): Approx. INR (twenty-one lakh fifteen thousand fifteen) - INR (twenty-five lakh ninety-eight thousand one hundred ninety-seven) (one NZD=forty-eight point nine one INR as on twenty-eighth March two thousand twenty-five)
+      - Post Study Work Visa: NA
+      - Eligibility Overseas: Fulfil first two years academic requirement at Ken42 (CGPA of six point zero or more). Minimum seventy percent in Indian School Certificate, All India Senior School Certificate, and Grade twelve English from approved Higher Secondary State Boards (Maharashtra State Board of Secondary and Higher Secondary Education, Karnataka Secondary Education Examination Board and West Bengal Council of Higher Secondary Education) obtained no more than two years prior to the admission to Ken42. If this is not met, applicants must satisfy the UoA English language proficiency requirements, as available under www.auckland.ac.nz/is-english.
+      - English Requirement: Minimum seventy percent in Indian School Certificate, All India Senior School Certificate, and Grade twelve English from approved Higher Secondary State Boards (specific boards listed) obtained no more than two years prior to Ken42 admission, OR satisfy UoA English language proficiency requirements (www.auckland.ac.nz/is-english).
+
+12. B.Tech (Mathematics and Computing)
+  School: School of Computer Science (SOCS)
+  Duration: four years
+  Specializations: No Specialization
+  Eligibility: Minimum seventy percent Marks in Class tenth and twelfth. Along with seventy percent in PCM (Physics/Chemistry and Mathematics) in Class twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Marks / S A T followed by Personal Interview.
+    Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh forty-four thousand), Academic Service Fee: (ninety-six thousand), Total: (two lakh forty thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh fifty-two thousand), Academic Service Fee: (one lakh two thousand), Total: (two lakh fifty-four thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh sixty-two thousand), Academic Service Fee: (one lakh seven thousand), Total: (two lakh sixty-nine thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh seventy-one thousand), Academic Service Fee: (one lakh thirteen thousand five hundred), Total: (two lakh eighty-four thousand five hundred) per sem
+    - The total college fees for B.Tech (Mathematics and Computing) is (twenty lakh ninety-five thousand).
+
+13. B.Tech (Food Technology)
+  School: School of Health Sciences & Technology (SOHST)
+  Duration: four years
+  Specializations: No Specialization
+  Eligibility: Minimum fifty percent Marks at X & twelfth with Physics, Chemistry, Biology/ Math’s, and English as a Major Subject in twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Merit / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh twenty-two thousand), Academic Service Fee: (eighty-one thousand), Total: (two lakh three thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh twenty-nine thousand), Academic Service Fee: (eighty-five thousand), Total: (two lakh fourteen thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh thirty-eight thousand), Academic Service Fee: (ninety thousand), Total: (two lakh twenty-eight thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh forty-five thousand), Academic Service Fee: (ninety-five thousand five hundred), Total: (two lakh forty thousand five hundred) per sem
+    - The total college fees for B.Tech (Food Technology) is (seventeen lakh seventy-one thousand).
+
+14. B.Tech (Biotechnology)
+  School: School of Health Sciences & Technology (SOHST)
+  Duration: four years
+  Specializations: Computational and Nano-Biotechnology, Gene Therapy and Personalized Medicine, Biosimilars and Oncology
+  Eligibility: Minimum fifty percent Marks at X & twelfth with Physics, Chemistry, Biology/ Math’s, and English as a Major Subject in twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Merit / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh twenty-two thousand), Academic Service Fee: (eighty-one thousand), Total: (two lakh three thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh twenty-nine thousand), Academic Service Fee: (eighty-five thousand), Total: (two lakh fourteen thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh thirty-eight thousand), Academic Service Fee: (ninety thousand), Total: (two lakh twenty-eight thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh forty-five thousand), Academic Service Fee: (ninety-five thousand five hundred), Total: (two lakh forty thousand five hundred) per sem
+    - The total college fees for B.Tech (Biotechnology) is (seventeen lakh seventy-one thousand).
+
+15. B.Tech (Biomedical Engineering)
+  School: School of Health Sciences & Technology (SOHST)
+  Duration: four years
+  Specializations: Bioengineering, Biomedical robotics, Bio Fabrication
+  Eligibility: Minimum fifty percent Marks at X & twelfth with Physics, Chemistry, Biology/ Math’s, and English as a Major Subject in twelfth.
+  Selection: Ken42 E A T / J E E Mains / Board Merit / S A T / C U E T .
+  Fee Structure (Normal Program):
+    - Semesters one to two: Tuition Fee: (one lakh twenty-two thousand), Academic Service Fee: (eighty-one thousand), Total: (two lakh three thousand) per sem
+    - Semesters three to four: Tuition Fee: (one lakh twenty-nine thousand), Academic Service Fee: (eighty-five thousand), Total: (two lakh fourteen thousand) per sem
+    - Semesters five to six: Tuition Fee: (one lakh thirty-eight thousand), Academic Service Fee: (ninety thousand), Total: (two lakh twenty-eight thousand) per sem
+    - Semesters seven to eight: Tuition Fee: (one lakh forty-five thousand), Academic Service Fee: (ninety-five thousand five hundred), Total: (two lakh forty thousand five hundred) per sem
+    - The total college fees for B.Tech (Biomedical Engineering) is (seventeen lakh seventy-one thousand).
+
+Entrance Exam Details:
+Ken42 Engineering Aptitude Test Ken42 E A T):
+  - Programs Covered: B.Tech (All Streams)
+  - Mode: Online
+  - Duration: two hours
+  - Test Dates two thousand twenty-five: second – fourth May two thousand twenty-five
+  - Last Date to Apply two thousand twenty-five: twenty-eighth April two thousand twenty-five
+  - Login Window: ten am – three pm
+  - Scheme of Test: Mathematics / Biology (thirty-five questions), Physics (thirty-five questions), Chemistry (thirty-five questions), English Language Comprehension (twenty questions). Total: one hundred twenty-five questions.
+  Exemption Criteria:
+  - B.Tech (All Streams except Mathematics and Computing):
+    - Board Marks: Minimum eighty percent marks in both Class tenth and Class twelfth, along with at least eighty percent in Physics, Chemistry, and Mathematics in Class twelfth.
+    - J E E Mains two thousand twenty-five: Minimum fifty percent marks in both Class tenth and Class twelfth, with at least fifty percent in Physics, Chemistry, and Mathematics (PCM), along with a minimum percentile of fifty or above.
+    - S A T two thousand twenty-five: Minimum fifty percent marks in both Class tenth and Class twelfth, with at least fifty percent in Physics, Chemistry, and Mathematics (PCM), along with a minimum score of one thousand forty or above.
+    - C U E T -UG two thousand twenty-five: Minimum fifty percent marks in both Class tenth and Class twelfth, with at least fifty percent in Physics, Chemistry, and Mathematics (PCM), and a minimum of sixty percent or above.
+  - B.Tech (Mathematics and Computing): Exemption leads to direct Personal Interview Round if criteria met.
+    - Board Marks: Minimum eighty percent marks in both Class tenth and Class twelfth, along with at least eighty percent in Physics, Chemistry, and Mathematics in Class twelfth, followed by Personal Interview Round.
+    - J E E Mains two thousand twenty-five: Minimum seventy percent marks in both Class tenth and Class twelfth, with at least seventy percent in Physics, Chemistry, and Mathematics (PCM), along with a minimum percentile of sixty or above, followed by Personal Interview Round.
+    - S A T two thousand twenty-five: Minimum seventy percent marks in both Class tenth and Class twelfth, with at least seventy percent in Physics, Chemistry, and Mathematics (PCM), along with a minimum score of one thousand one hundred fifty or above, followed by Personal Interview Round.
+  General Notes: Upto twenty percent seats shall be filled through non-exam category (ten percent through J E E Mains and ten percent through Board Merit). In case of seats following vacant in this category; Ken42 has the right to fill these through Ken42 Examination.
+
+Scholarship Information:
+
+  **General Policy Information:**
+  *   **Policy Title:** SCHOLARSHIP POLICY
+  *   **Academic Year:** 2025 - 26
+  *   **Version:** 1.0, 2025 - 2026
+  *   **University:** UPES, Bangalore, Karnataka 248007
+
+  **General Disclaimer:**
+  *   UPES's Management has sole discretion to edit, modify, change, update, continue or abandon any scholarship without any prior written intimation.
+  *   The Vice Chancellor will be the final deciding authority for all scholarship decisions.
+  *   There is no concept of automatic renewal for the next semester. The Scholarship Committee shall decide every semester on a case-to-case basis, subject to the Scholarship Policy, if it is prevailing at the relevant time.
+  *   This communication is without prejudice to any rights of UPES and this communication should not be considered as waiver of any rights of UPES in applicants' favour.
+
+  **General Eligibility for Consideration:**
+  *   All students who have taken twelfth CBSE Board / ICSE Board or any State Board exam (mentioned under “COBSE”) shall be eligible for consideration of scholarship.
+  *   Scholarships shall be awarded only to those students who have complied with the relevant criteria for various scholarships.
+  *   Scholarships will be available for limited seats only.
+
+  **Scholarship Types:**
+
+  **1. Entry Level Scholarship (For UG Program):**
+    - **Basis:** Board Merit/ J E E / C U E T / CLAT AIR (General) score
+    - **Applicability:** First year tuition fee only. Offer acceptance fee must be deposited within timeline. Not applicable for Global Pathway Programs.
+    - **Total Seats:** Upto three thousand, awarded in order of merit.
+    - **Conditions:**
+      - If student takes admission in regular UG program and later shifts to Global Pathway Program, the scholarship awarded at the time of admission will be reversed. Change of program permitted only post submission of scholarship amount.
+      - If student takes admission in Global Pathway Program and later shifts to regular program, they will not be eligible for this scholarship based on Board merit/ JEE/ CUET/CLAT AIR scores.
+      - Eligible for only one scholarship type/concession in a given Academic semester or year. If multiple criteria met (including Domicile), the highest scholarship will be awarded, but not both.
+    - **Armed Forces Ward Reservation:** twenty-five seats reserved for wards of Armed Forces including Paramilitary personnels (Serving and Retired).
+    - **Tiers (Girls):**
+      - thirty percent scholarship: greater than or equal to ninety-five percent in twelfth Board Marks OR greater than or equal to ninety-five percent in J E E / C U E T percentile OR CLAT AIR one to one thousand.
+      - twenty-five percent scholarship: ninety point zero one to ninety-four point nine nine percent in twelfth Board Marks OR CLAT AIR one thousand one to three thousand.
+      - twenty percent scholarship: eighty-five point zero one to ninety percent in twelfth Board Marks OR ninety point zero one to ninety-four point nine nine percent in J E E / C U E T percentile OR CLAT AIR three thousand one to five thousand.
+      - fifteen percent scholarship: seventy-five point zero one to eighty-five percent in twelfth Board Marks OR CLAT AIR five thousand one to seven thousand.
+      - ten percent scholarship: sixty to seventy-five percent in twelfth Board Marks OR eighty to ninety percent in J E E / C U E T percentile OR CLAT AIR seven thousand one to nine thousand.
+    - **Tiers (Boys):**
+      - thirty percent scholarship: greater than or equal to ninety-five percent in twelfth Board Marks OR greater than or equal to ninety-five percent in J E E / C U E T percentile OR CLAT AIR one to one thousand.
+      - twenty-five percent scholarship: ninety point zero one to ninety-four point nine nine percent in twelfth Board Marks OR CLAT AIR one thousand one to three thousand.
+      - twenty percent scholarship: ninety point zero one to ninety-four point nine nine percent in J E E / C U E T percentile OR CLAT AIR three thousand one to five thousand.
+      - fifteen percent scholarship: eighty point zero one to ninety percent in twelfth Board Marks OR CLAT AIR five thousand one to seven thousand.
+      - ten percent scholarship: seventy-five to eighty percent in twelfth Board Marks OR eighty to ninety percent in J E E / C U E T percentile OR CLAT AIR seven thousand one to nine thousand.
+    - **Tiers (International Boards - Girls):**
+      - thirty percent scholarship: greater than or equal to ninety-five percent in twelfth Overall Marks OR greater than or equal to ninety-five percent in C U E T score OR one thousand four hundred & above in S A T (Scholastic Assessment Test).
+      - twenty-five percent scholarship: ninety point zero one to ninety-four point nine nine percent in twelfth Overall Marks OR one thousand three hundred to one thousand three hundred ninety-nine in S A T OR seven in I B (International Baccalaureate) OR A* in C I E (Cambridge International Education).
+      - twenty percent scholarship: eighty-five point zero one to ninety percent in twelfth Overall Marks OR ninety point zero one to ninety-four point nine nine percent in C U E T score OR one thousand two hundred to one thousand two hundred ninety-nine in S A T OR six in I B OR A in C I E.
+      - fifteen percent scholarship: seventy-five point zero one to eighty-five percent in twelfth Overall Marks OR five in I B OR B in C I E.
+      - ten percent scholarship: sixty to seventy-five percent in twelfth Overall Marks OR eighty to ninety percent in C U E T score.
+    - **Tiers (International Boards - Boys):**
+      - thirty percent scholarship: greater than or equal to ninety-five percent in twelfth Overall Marks OR greater than or equal to ninety-five percent in C U E T score OR one thousand four hundred & above in S A T.
+      - twenty-five percent scholarship: ninety point zero one to ninety-four point nine nine percent in twelfth Overall Marks OR one thousand three hundred to one thousand three hundred ninety-nine in S A T OR seven in I B OR A* in C I E.
+      - twenty percent scholarship: ninety point zero one to ninety-four point nine nine percent in C U E T score OR one thousand two hundred to one thousand two hundred ninety-nine in S A T OR six in I B OR A in C I E.
+      - fifteen percent scholarship: eighty point zero one to ninety percent in twelfth Overall Marks OR five in I B OR B in C I E.
+      - ten percent scholarship: seventy-five to eighty percent in twelfth Overall Marks OR eighty to ninety percent in C U E T score.
+
+  **2. Special Scholarship for Liberal Studies Programs - First 100 Admissions:**
+    - **Applicable Programs:** B.Sc. (Hons.) Economics and Finance, B.Sc. (Hons.) Economics with Data Science, B.Sc. (Hons.) Psychology and Behaviour.
+    - **Scholarship Value:** ten percent scholarship on Tuition Fee for first Year on first-cum-first-serve basis (up to first one hundred admissions) over and above the entry level scholarship.
+    - **Conditions:**
+      - Scholarship provided at the time of registration for mentioned programs.
+      - Special scholarship amount for first and second semester reflects in second semester Fee Invoice.
+      - If eligible for a special scholarship along with entry level scholarship and Domicile scholarship, student receives entry level or domicile (whichever is higher) along with special scholarship.
+      - **Note:** If student receives Board Merit/CUET/SAT/IB/CIE/JEE scholarship, this ten percent is calculated after deducting that amount. Scholarship awarded reflects in second semester fee invoice.
+
+  **3. Special  .Tech (Mathematics and Computing):**
+    - **Program Count:** Up to thirty Admissions
+    - **Scholarship Value:** thirty percent scholarship on Tuition Fee for first Year on first-cum-first-serve basis.
+    - **Conditions:**
+      - Special scholarship amount for first and second semester reflects in second semester Fee Invoice.
+      - If eligible for Domicile scholarship, student receives special scholarship or domicile, whichever is higher.
+
+  **4. Scholarship Program for MBA:**
+    - **Applicable Programs:** MBA programs (regular), except Global Pathway Program (GPP).
+    - **Scholarship Value:** twenty percent scholarship per semester on tuition fee for first year only.
+    - **Eligibility Criteria & Conditions:**
+      - Minimum eighty percent marks in graduation OR C A T score eighty-five percentile and above OR N M A T score greater than two hundred.
+      - Graduation from any recognized University (mentioned under A I U).
+      - Total Seats: Upto one hundred, awarded on first-cum-first-serve basis.
+      - Scholarship applicable for first year tuition fee only, if offer acceptance fee is deposited within the given timeline.
+      - Eligible for only one scholarship type/concession in a given Academic semester or year. If multiple criteria met (including Domicile), the highest scholarship will be awarded, but not both.
+      - No renewal as it is applicable for first year only.
+
+  **5. Domicile Scholarship:**
+    - **Objective:** To provide support to the students of Karnataka.
+    - **Reservation:** twenty-five percent seats reserved for Karnataka domicile students taking admission in A Y two thousand twenty-five to twenty-six.
+    - **Scholarship Value:** twenty-five percent scholarship on the tuition fee per semester. Awarded as Fee Concession; Fee Discount; Fee Waiver on tuition fees only. Cannot be exchanged for cash/cheque or transferred to any other program or campus or academic year/semester etc.
+    - **Document Required:** Submission of Domicile Certificate/ Sthai / Mool / Adhiwas Niwas Praman Patra at time of admission.
+    - **GPP Eligibility:** Students who have applied for admission in Global Pathway Programs are also eligible.
+    - **Conditions:**
+      - If a student declines the admission offer, the scholarship offered shall become void ab-initio.
+      - Eligible for only one scholarship type/concession in a given Academic semester or year. If multiple criteria met (including Domicile), the highest scholarship will be awarded, but not both (not applicable if academic performance scholarship from second year onwards).
+      - Domicile or any other scholarship/concession not opted by the student at the time of admission shall have no claim in future and will be construed as waived against the University.
+      - Applicants are responsible for checking eligibility; non-eligible will be disqualified at any stage.
+      - Compliance with all other norms as prescribed by the University from time to time.
+      - No acts or omission which results in unlawful behavior, with malafide intention maligning the University brand in digital, print, or social media, promoting, supporting or sharing any content which is against University brand.
+      - The decision of the Competent Authority shall be final and binding.
+
+  **6. Jyoti Scholarship (Freeships):**
+    - **Objective:** Access to quality education for all, providing one hundred percent (Includes tuition and other academic fee) scholarship to meritorious students from under-privileged backgrounds with high aspiration, commitment and caliber.
+    - **Scholarship Value:** one hundred percent (Includes tuition and other academic fee).
+    - **Total Seats:** fifty-one seats only for regular program on merit basis.
+    - **Age Limit:** U G: twenty years; P G: twenty-five years (as on date of registration as notified by University).
+    - **Eligibility:**
+      - Minimum eighty percent Marks in tenth and twelfth.
+      - Submission of Income Tax Return (I T R) of both parents / Family Income Certificate issued by District Magistrate (D M) /Additional District Magistrate (A D M) / Collector / Deputy Commissioner / Additional Deputy Commissioner / First Class Stipendiary / Magistrate / Sub-Divisional Magistrate / Executive Magistrate / Taluka Magistrate / Extra Assistant Commissioner.
+      - Family income not more than Rupees eight lakh per annum from all sources.
+    - **Other Conditions:**
+      - Free Hostel facility will not be applicable.
+      - One-time refundable security fee of Rupees twenty thousand to be deposited at the time of admission.
+    - **Renewal Conditions:** Awarded for one year. Renewal in subsequent semester/year based on:
+      - Candidate clearly passed & obtained a minimum of six point zero S G P A / C G P A score in the last exam. (V C decision if criterion not met, final and binding).
+      - No disciplinary case registered or reported.
+      - Submission of renewed Income certificate / I T R before the start of each academic year.
+      - Maintenance of seventy-five percent attendance.
+
+  **7. Vijay Scholarship (Sports):**
+    - **Objective:** Develop sports culture, provide scholarship to talented sportspersons.
+    - **Tiers:**
+      - **International (Medal holders):** one hundred percent on Tuition fees (Organizing body: International Olympic Committee / Commonwealth).
+      - **International (Participating):** seventy-five percent on Tuition fees (Organizing body: International Olympic Committee / Commonwealth).
+      - **National (Medal holders/fourth place in individual sport):** fifty percent on Tuition fees (Organizing body: National association / Federations / A I U / I O A / School Games federation of India).
+      - **National (Participation):** thirty-five percent on Tuition fees (Organizing body: National association / Federations / A I U / I O A / School Games federation of India).
+    - **Seats per Sport:**
+      - Football: five, Cricket: five, Basketball: five, Volleyball: five, Table Tennis: five, Badminton: five, Shooting: five, Chess: four, Athletics: five, Boxing: two, Wrestling: two, Archery: two.
+    - **Selection Criteria:**
+      - Physical/fitness and skill test.
+      - Verification of original testimonials.
+      - In-person interview with the Scholarship Committee.
+    - **Conditions (New Enrollments):**
+      - Awarded as per seats mentioned; seats can be transferred to other games with Vice Chancellor / Registrar approval.
+      - Minimum academic eligibility for the respective program must be met.
+      - Applicable only if the student continues the sport as a part of the Ken42 team.
+      - Participation/achievement at National/International level should not be older than two years from the date of registration.
+      - Candidate must produce relevant documents of proof of participation and Medal Winning. Scholarship Committee makes final decision.
+      - Awarded for the first year only; continuation decided case-to-case by Scholarship Committee.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed with this Scholarship.
+      - Eligible for only one scholarship type/concession in a given Academic semester or year. If multiple criteria met (including Domicile), the highest scholarship will be awarded, but not both (not applicable if Academic Performance scholarship from second year onwards).
+      - If sports scholarship is discontinued in subsequent years, student can claim for domicile scholarship upon meeting the domicile eligibility criteria.
+    - **Additional Conditions (Existing Students):**
+      - All current dues should be cleared before availing scholarships.
+      - Maintenance of seventy-five percent attendance.
+      - No case of indiscipline as per the University records.
+      - No existing backlog in the exams appeared at Ken42.
+      - All such students must practice regularly / seek expert advice / participate in coaching camps to maintain / improve their standard and performance.
+      - Scholarship awarded for one year and will continue, provided proficiency is maintained/improved.
+      - Can be withdrawn if student involved in indiscipline, unable to clear academic assessments, or other academic requirements not met.
+      - Applicable only on Tuition Fee. Does not apply to Admission fee, Examination fee, Transport fee, Hostel Fee, or any other fee/expense.
+      - Scholarship Committee reserves the right to increase / decrease / approve / deny the amount of scholarship.
+
+  **8. Fellowship for M.Tech & M.Des Students:**
+    - **a) M.Tech. Program:**
+      - **GATE Scholarship:**
+        - **Eligibility:** Students admitted to M.Tech program in the academic session two thousand twenty-five to twenty-six with a valid G A T E score of seventy-five percentile and above.
+        - **Benefit:** Upto Rupees twelve thousand four hundred per month starting from August two thousand twenty-five to May two thousand twenty-six.
+      - **Research Grant:**
+        - **Eligibility:** All students.
+        - **Benefit:** Upto Rupees fifty thousand towards outcome-based research as per University rules.
+    - **b) M.Des. Program:**
+      - **Teaching Assistantship:**
+        - **Eligibility:** Students pursuing M.Des Program.
+        - **Benefit:** Upto Rupees three thousand per month.
+    - **General Eligibility Criteria for Fellowship (M.Tech & M.Des):**
+      - Minimum C G P A of eight point five in academic year.
+      - Passed every semester without any supplementary.
+      - Maintenance of seventy-five percent attendance.
+      - No disciplinary action initiated against the student.
+      - Exemplary behavior and compliance with all other norms as prescribed by the University.
+      - Students receiving support (fellowship/scholarship/fee waiver etc.) from any other source (public or private) will not get any kind of financial assistance/support from the University.
+
+  **9. Scholarships Based on Academic Performance – From Second Year Onwards:**
+    - **Applicability:** Undergraduate, postgraduate and global pathway programs.
+    - **Qualifying CGPA:** Minimum eight point five C G P A.
+    - **Award Percentage:** Awarded to ten percent of total students enrolled in each program (ten percent rounded off to next nearest number or one student, whichever is higher).
+    - **Tiers:**
+      - first in order of merit: twenty percent on tuition fees.
+      - second in order of merit: fifteen percent on tuition fees.
+      - Rest of the eligible students: ten percent on tuition fees.
+    - **Conditions:**
+      - In case of tie, C G P A will be calculated up to third decimal point.
+      - Passed without any supplementary exam. If student fails to obtain minimum C G P A of eight point five or has an active backlog, scholarship discontinued and can only be renewed in next academic year subject to meeting eligibility criteria.
+      - Awarded on the basis of academic grades and attendance, post declaration of results on a yearly basis. E.g., scholarship based on first year result reflects in second year fee invoice (third semester), benefit reflects in fourth semester.
+      - Awarded only till pre-final year.
+      - Maintenance of seventy-five percent attendance.
+      - No disciplinary action initiated / sanctioned against the student or non-compliance of norms.
+      - No acts or omission which results in unlawful behavior, with malafide intention maligning the University brand.
+      - Awarded as Fee Concession; Fee Discount; Fee Waiver on tuition fees only. Cannot be exchanged for cash/cheque or transferred.
+      - Can be clubbed with Domicile/Sports/Employee Ward/Employee Sibling Ward/Spouse/Alumni scholarship.
+      - The decision of the Competent Authority shall be final and binding.
+
+  **10. Student Financial Support – We Care initiative by UPES:**
+    - **Objective:** To extend special financial support to students who are unable to pay the fee on account of having lost any of the earning parent after taking admission at Ken42 and after submitting full fees for at least one semester.
+    - **Scholarship Value:** Relaxation of Rupees fifty thousand towards their tuition fee per semester till the last qualifying semester.
+    - **Eligibility Criteria & Conditions:**
+      - Students should maintain / improve their academic performance every semester.
+      - Students applying for relaxation should not have any N C (Not Clear) or Backlog in any semester. However, the Registrar can use his discretion to recommend the Vice Chancellor for approval without using this as a precedent for future cases.
+      - No disciplinary action initiated / sanctioned against the student or non-compliance of norms.
+      - This relaxation is applicable only for the upcoming semester/s.
+      - Support is provided for one semester. Fresh application required for extension along with grade card of last exam passed (via Department of Student Welfare - D S W).
+      - University reserves the right to approve / disapprove the application received from the student.
+
+  **11. Alumni Scholarship:**
+    - **Applicable Programs:** All regular P G programs, Part-Time Ph.D. Programs.
+    - **Scholarship Value:**
+      - fifty percent tuition fee waiver for the full duration of all regular P G programs. Rest all fee components charged as per notification of A Y two thousand twenty-five to twenty-six.
+      - fifty percent fee waiver on alumni enrolled in Part-Time Ph.D. Programs.
+      - No Alumni fee will be applicable.
+    - **Eligibility Criteria & Conditions:**
+      - Students who have applied for admission to Global Pathway Programs are not eligible.
+      - Applicable to all Alumni graduated from two thousand twenty onwards. For Alumni graduated before two thousand twenty, Department of Alumni Relations will present the case to the Competent Authority for special approval.
+      - Alumni must meet notified admission eligibility criteria for A Y two thousand twenty-five to twenty-six for respective programs and should email academic details along with application number to Enrollments Department.
+      - Renewal for subsequent year based on attaining minimum eight S G P A / C G P A with no backlog and no disciplinary cases.
+      - Scholarship once discontinued will not be revived; Competent Authority decision final.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed with this Scholarship.
+
+  **12. Employee Ward Scholarship:**
+    - **Applicable Programs:** Regular U G, P G and Part-Time Ph.D. program.
+    - **Scholarship Value:** seventy-five percent scholarship on the Semester Fee (Inclusive of Tuition and Academics Service fee).
+    - **Eligibility Criteria & Conditions:**
+      - Scholarship provided to the ward of employees after meeting eligibility criteria and going through selection process.
+      - All regular and confirmed employees of Ken42 (Faculty & Non-Faculty) eligible for maximum two children.
+      - Applicable for the fee of first year (Inclusive of Tuition and Academics Service fee). All other components of the fee are payable.
+      - For continuing scholarship, ward must not be involved in any disciplinary case and abide by rules.
+      - Employee must continue in service with the University. If employee resigns or is terminated, ward liable to pay full fee post employee's exit.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed.
+
+  **13. Employee Sibling Ward Scholarship:**
+    - **Applicable Programs:** Regular U G, P G and Part-Time Ph.D. program.
+    - **Scholarship Value:** fifty percent scholarship on the Semester Fee (Inclusive of Tuition and Academics Service fee).
+    - **Eligibility Criteria & Conditions:**
+      - Scholarship provided to the ward of siblings of employees after meeting eligibility criteria and going through selection process.
+      - All regular and confirmed employees of Ken42 (Faculty & Non-Faculty) and on Allied Services Rolls (Including employees on the rolls of H E R S/I S P E/M- Power/any other group of companies) eligible for maximum two children of sibling.
+      - Applicable for the fee of first year (Inclusive of Tuition and Academics Service fee). All other components of the fee are payable.
+      - For continuing scholarship, ward of sibling must not be involved in any disciplinary case and abide by rules.
+      - Employee must continue in service with the University. If employee resigns or is terminated, ward of sibling liable to pay full fee post employee's exit.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed.
+
+  **14. Employee Spouse Scholarship:**
+    - **Applicable Programs:** Regular U G, P G and Part-Time Ph.D. program.
+    - **Scholarship Value:** fifty percent scholarship on the Semester Fee (Inclusive of Tuition and Academics Service fee).
+    - **Eligibility Criteria & Conditions:**
+      - Scholarship provided to the spouse of employees after meeting eligibility criteria and going through selection process.
+      - All regular and confirmed employees of Ken42 (Faculty & Non-Faculty) will be eligible.
+      - Applicable for the fee of first year (Inclusive of Tuition and Academics Service fee). All other components of the fee are payable.
+      - For continuing scholarship, spouse must not be involved in any disciplinary case and abide by rules.
+      - Employee must continue in service with the University. If employee resigns or is terminated, spouse liable to pay full fee post employee's exit.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed.
+
+  **15. Scholarships for International Students:**
+    - **Applicable Programs:** U G (twelfth Overall Marks - Not applicable for L L B three-Years), P G (Only for M B A).
+    - **Duration:** Entire duration of course subject to fulfilment of conditions.
+    - **Tiers (UG - twelfth Overall Marks):**
+      - thirty percent scholarship on full fee: greater than or equal to ninety-five percent or equivalent.
+      - twenty-five percent scholarship on full fee: ninety point zero one to ninety-four point nine nine percent or equivalent.
+      - twenty percent scholarship on full fee: eighty-five point zero one to ninety percent or equivalent.
+      - fifteen percent scholarship on full fee: seventy-five point zero one to eighty-five percent or equivalent.
+      - ten percent scholarship on full fee: sixty percent to seventy-five point zero zero percent or equivalent.
+    - **Tiers (PG - Only for MBA):**
+      - twenty percent scholarship on full fee: Minimum sixty percent marks in Graduation or equivalent.
+    - **Conditions:**
+      - Passed every semester without any supplementary exam.
+      - Maintenance of seventy-five percent attendance in entire semester in all subjects and cumulative.
+      - No disciplinary action initiated/ sanctioned against the student or non-compliance of norms.
+      - Compliance with all other norms as prescribed by the University from time to time.
+      - No acts or omission which results in unlawful behavior, with malafide intention maligning the University brand.
+      - Awarded as Fee Concession; Fee Discount; Fee Waiver on tuition fees only. Cannot be exchanged for cash/cheque or transferred.
+      - Only Academic Performance Scholarship (second year onwards) will be clubbed.
+      - **Special Liberal Studies Scholarship:** ten percent special scholarship for the students on Tuition Fee for first Year on first-cum-first-serve basis over and above the entry level scholarship on below mentioned programs: B.Sc. (Hons.) Economics and Finance, B.Sc. (Hons.) Economics with Data Science, B.Sc. (Hons.) Psychology and Behaviour.
+
+  **16. Scholarships for Online Students (UPESONLINE):**
+    - **a) Academic Scholarship:**
+      - **Undergraduate Programs (Academic - twelfth Std.):**
+        - ten percent scholarship: seventy-five to eighty-five percent.
+        - fifteen percent scholarship: greater than eighty-five percent.
+        - **Benefit Allocation:** Benefit transfer Semester-wise.
+      - **Post Graduate Programs (Work Experience & Academic - Graduation):**
+        - ten percent scholarship: three years Work Experience & fifty-five percent and more in Graduation.
+        - fifteen percent scholarship: five years Work Experience & fifty-five percent and more in Graduation.
+        - twenty percent scholarship: ten plus years Work Experience & fifty-five percent and more in Graduation.
+        - **Benefit Allocation:** Benefit transfer Semester-wise. (Example: Course fee: Rupees one hundred thousand; ten percent scholarship = Rupees ten thousand. Benefit transfer to first semester Rupees two thousand five hundred and so on till fourth semester subject to meeting terms/renewal criteria).
+      - **Terms & Conditions:**
+        - Student should not be a Fee Defaulter at any time during the program.
+        - Student should be regular in attending classes and examinations.
+        - In the event of discontinuance of scholarship for any reason, scholarship shall not be renewed.
+        - Ken42 reserves the right to change, modify or withdraw the scholarship or its Terms & Conditions, without any prior notice.
+        - Special fee benefits under corporate M O U and academic scholarships or any other similar scheme, can't be combined.
+    - **b) Scholarship for Alumni:**
+      - **Scholarship Value:** twenty percent scholarship applicable on program fee for the students enrolled in degree programs.
+      - **Terms & Conditions:**
+        - Alumni scholarship will be applicable for the students completed their Degree from Ken42 and taking admission to degree or non-degree program.
+        - Scholarship will not be applicable if the student is taking admission to another non-degree program after completing non-degree program from Ken42.
+    - **c) Employee Ward Scholarship:**
+      - **Scholarship Value:** The amount of scholarship will be discretionary based on special approval from the Competent Authority.
+      
+Other Fees (Common UG):
+  - Training and Certification Fee: INR (twenty-nine thousand five hundred) (One time, in second semester). Mandatory for B.Tech (credited course). For short-duration industrial tours/training. Air travel extra if needed.
+  - Personality Development Courses (PDC) Fee: INR (twenty-two thousand) (Total for UG). Rupees. (eleven thousand) at admission, Rupees. (eleven thousand) in penultimate (second last) semester. Mandatory for all students except B.Com/B.Sc.
+  - Refundable Security: INR (twenty thousand) (One time, at registration). Interest-free. Refundable after program completion if no dues.
+  - Technology Fee: INR (three thousand six hundred) (Per semester for the first year). Subsequent years' amount communicated later. Laptop mandatory as per Ken42 specs.
+  - Medical Insurance Fee: INR (five hundred) (At registration). Covers Group Medical Health Insurance. Subsequent years' amount communicated later.
+  - I-CARD Fee: INR (five hundred) (One time, at registration).
+  - Global Pathway Program Facilitation charges: INR (thirty-two thousand) (One time). For students enrolling in GPP. Non-refundable if student shifts to non-GPP.
+  - Levies and Taxes: Any taxes/levies charged by Central/State/Local/Overseas Authorities borne by students.
+  - Convocation Fee: INR (two thousand) (Penultimate (second Last) semester).
+  - Alumni Fee: INR (two thousand) (At time of registration).
+
+General Admission Information:
+  - Application Process: Apply online at www.upes.ac.in or offline at admission office.
+  - Application Fee (Domestic): Rupees. (one thousand seven hundred fifty)/-
+  - Application Fee (International): USD fifty
+  - International Student Definition: Applicant holding a passport of any country other than India, or Indian passport holder with qualified higher secondary/UG degree from a foreign country.
+  - SAARC NRI Fee Policy: Students from SAARC countries and NRIs pay fees in line with domestic students but are classified as international students for admission through international pathway.
+  - Commencement of Program: Actual classes begin after PEP (Personality Enhancement Program) held post-registration.
+  - Withdrawal and Refund: Follows UGC guidelines. Processed online. Details at www.upes.ac.in.
+  - Ragging Policy: Zero tolerance policy, strictly prohibited. Summary expulsion for offenders.
+  - Contact Information:
+    - Campuses: Energy Acres (Bangalore two four eight zero zero seven), Knowledge Acres (Bangalore two four eight zero zero seven)
+    - Telephone: zero one three five - two seven seven zero one three seven / two seven seven six zero five three / two seven seven six zero five four / two seven seven six zero nine one / nine nine nine seven seven nine nine four seven four
+    - Toll-Free: one eight zero zero - one zero two - eight seven three seven
+    - Website: www.upes.ac.in
+    - Email (International Admissions): enrollments.upes.ac.in
+  - Fee Payment Schedule AYtwo thousand twenty-five to twenty-six:
+    - first semester: At the time of admission
+    - second semester: by second Jan, two thousand twenty-six
+    - third semester: by tenth Jul, two thousand twenty-six
+    - fourth semester: by second Jan, two thousand twenty-seven
+    - fifth semester: by tenth Jul, two thousand twenty-seven
+    - sixth semester: by second Jan, two thousand twenty-eight
+    - seventh semester: by tenth July, two thousand twenty-eight
+    - eighth semester: by second Jan, two thousand twenty-nine
+
+Hostel Facilities and Safety:
+  - Hostel Safety & Security:
+    - twenty-four by seven security personnel
+    - CCTV surveillance
+    - Biometric access control
+    - Separate hostels for boys and girls
+    - Strict entry/exit protocols
+    - Regular patrols
+    - Emergency response system
+  - Hostel Facilities:
+    - Well-furnished rooms
+    - Nutritious mess facilities
+    - Laundry services
+    - On-campus medical assistance (doctors, tie-ups with hospitals)
+    - Recreational areas (common rooms, TV, indoor games)
+    - Wi-Fi connectivity
+    - Power backup
+    - Housekeeping services
+    - Water purifiers
+
+Contact Information:
+  - Campuses:
+    - Energy Acres: Bangalore, Bangalore two four eight zero zero seven
+    - Knowledge Acres: Bangalore, Bangalore two four eight zero zero seven
+  - Telephone: zero one three five - two seven seven zero one three seven / two seven seven six zero five three / two seven seven six zero five four / two seven seven six zero nine one / nine nine nine seven seven nine nine four seven four
+  - Toll-Free: one eight zero zero - one zero two - eight seven three seven
+  - Website: w w w . Ken42 . a c.in
+  - Email (International Admissions): enrollments@upes.ac.in
+
+Leadership:
+  - Leaders:
+    - Dr. Sunil Rai: President, Ken42
+    - Dr. Ram Sharma: Vice Chancellor, Ken42
+    - Dr. Jayasankar Variyar: Pro Vice Chancellor, Ken42
+  - Governance Structure:
+    - Academic Council:
+      - Chairperson: Dr. Ram Sharma (Vice Chancellor)
+      - Pro Vice Chancellor: Dr. Jayasankar Variyar
+      - Secretary: Mr. Manish Madaan (Registrar)
+        - Members:
+        - Prof. Karmeshu (Distinguished Professor, Ken42)
+        - Dr. Shyam Pandey (Director IQAC)
+        - Prof. Rahul Nainwal (Director – School of Business)
+        - Dr. Padmavathy Venkat (Dean - School of Health Sciences and Technology)
+        - Dr. Vijaysekhar Chellaboina (Dean - School of Computer Science)
+        - Dr. Abhishek Sinha (Dean – School of Law)
+        - Dr. Bhaskar Bhatt (Dean – School of Design)
+        - Dr. Atri Nautiyal (Dean - School of Liberal Studies and Media)
+        - Dr. Devesh Kumar Avasthi (Dean – Research and Development)
+        - Dr. N.K. Goel (Professor, Department of Hydrology, Indian Institute of Technology Roorkee)
+        - Dr. Karan Vasisht (Professor of Pharmaceutical Sciences, Punjab University)
+        - Prof. (Dr.) B. T. Kaul (Former Chairperson, Delhi Judicial Academy (Delhi High Court), Professor, Faculty of Law, Delhi)
+        - Prof. J.P. Gupta (Adviser (QA), Ken42)
+        - Prof. Pradyumna Vyas (Advisor CII, Board Member WDO)
+        - Dr. Brajesh Kumar Singh (Group Consulting Editor at News eighteen Network)
+        - Dr. D. Kanjilal (Professor Material Science and Engineering, Raja Ramanna Fellow, Inter-University Accelerator Centre)
+        - Mr. Ashutosh Pasricha (Oil Field Services and Equipment Sales Director at Schlumberger (India))
+        - Mr. D.K. Sharma (Senior Advocate - High Court Nainital, Member, BCI)
+        - Dr. R K Malhotra (Former Director (R&D), Director General, Petrofed)
+        - Prof. Shalabh Bhatnagar (Professor, Department of Computer Science and Automation, Indian Institute of Sciences)
+        - Dr. K. Munshi (Professor, IDC, IIT Bombay, Director, CTech Labs Pvt. Ltd. SINE IIT Bombay)
+        - Dr. L. Ravi (Advisor/ Consultant, GMR Group)
+        - Prof. Gautam R Desiraju (Honorary Professor, Indian Institute of Sciences)
+        - Prof. Vikram Chandra Thakur (Padma Shree, Former Research Director, Wadia Institute of Himalayan Geology Bangalore)
+        - Prof. Ashwini Kumar Nangia (Senior Professor, University of Hyderabad, Former Director, National Chemical Laboratory, Pune)
+        - Dr. Nishant Mishra (Dean, Students Welfare Office)
+        - Dr. M Yaqoot (Controller of Examination)
+        - Dr. J K Pandey (Director, Himalayan Institute for Learning and Leadership (HILL))
+  - Board of Governors:
+    - Government Nominee: Dr. Ranjeet Kumar Sinha (Secretary (Higher Education), Government of Karnataka, Karnataka Secretariat)
+    - Chairperson: Dr. Sunil Rai (President)
+    - Member Secretary: Dr. Ram Sharma (Vice Chancellor)
+    - Members:
+      - Dr. Sharad Mehra (Chairman, Hydrocarbons Education and Research Society)
+      - Mr. Bharat Kharbanda (Chief Operating Officer, GUS Global Services India Pvt Ltd.)
+      - Mr. Rajat Mukherjee (Partner, Merger and Acquisition, Practice Group, - Khaitan & Co. Law Firm)
+      - Dr. Himendu P. Mathur (Allahabad Bank Chair Professor at FMS)
+      - Justice U.C. Dhyani (Former Judge, Karnataka High Court)
+      - Shri Manoj Barthwal (Former Executive Director, ONGC)
+      - Mr. Satish Gokhale (Director Industrial Design, Design Directions Pvt. Ltd.)
+      - Dr. Deepak Seth (Group Chairman, Pearl Group of Companies)
+      - Lt. Gen. (Dr.) T.S. Shergill (Retd.), PVSM
+  - Board of Management:
+    - Chairperson: Dr. Ram Sharma (Vice-Chancellor)
+    - Pro Vice Chancellor: Dr. Jayasankar Variyar
+    - Government Nominee: Dr. Ranjeet Kumar Sinha (Secretary (Higher Education), Government of Karnataka, Karnataka Secretariat)
+    - Finance Officer: Mr. Navneet Mehta
+    - Secretary: Mr. Manish Madaan (Registrar)
+    - Members:
+      - Dr. Sharad Mehra (Chairman, Hydrocarbons Education and Research Society)
+      - Mr. Piyush Arora (Director - Business Strategy)
+      - Mr. Amit Sharma (Senior Director - Sales Operation)
+      - Mr. Ravi S Kumar (Director - HR)
+      - Ms. Stuti Gandhi (Senior Director - Marketing)
+      - Prof. Bhaskar Bhatt (Dean - School of Design)
+      - Dr. Neelu Jyoti Ahuja (Professor & Cluster Head, School of Computer Science)
+      - Dr. Padmavathy Venkat (Dean - School of Health Sciences & Technology)
+      - Dr. Abhishek Sinha (Dean - School of Law)
+      - Dr. Atri Nautiyal (Dean - School of Liberal Studies and Media)
+  - Finance Committee:
+    - Chairperson: Dr. Ram Sharma (Vice Chancellor)
+    - Government Nominee: Dr. Ranjeet Kumar Sinha (Secretary (Higher Education), Government of Karnataka, Karnataka Secretariat)
+    - Secretary: Mr. Navneet Mehta (Finance Officer - Ken42)
+    - Members:
+      - Dr. Jayasankar Variyar (Pro Vice Chancellor)
+      - Mr. Manish Madaan (Registrar)
+      - Dr. Atri Nautiyal (Dean - School of Liberal Studies and Media)
+      - Mr. Ravi S Kumar (Director - HR)
+      - Mr. Amit Sharma (Senior Director - Sales Operations)
+  - University Officials:
+    - Visitor: Lieutenant General Gurmit Singh PVSM, UYSM, AVSM, VSM
+    - President: Dr. Sunil Rai
+    - Vice Chancellor: Dr. Ram Sharma
+    - Pro Vice Chancellor: Dr. Jayasankar Variyar
+    - Registrar: Mr. Manish Madaan
+    - Other Officials:
+      - Prof. Rahul Nainwal (Director - School of Business)
+      - Dr. Padmavathy Venkat (Dean - School of Health Sciences and Technology)
+      - Dr. Vijaysekhar Chellabina (Dean - School of Computer Science)
+      - Dr. Abhishek Sinha (Dean - School of Law)
+      - Dr. Bhaskar Bhatt (Dean - School of Design)
+      - Dr. Atri Nautiyal (Dean - School of Liberal Studies and Media)
+      - Dr. Devesh Kumar Avasthi (Dean - Research and Development)
+      - Dr. Mohammed Yaqoot (Controller of Examination)
+      - Dr. Nishant Mishra (Dean - Student Welfare)
+
+--- Ken42. KNOWLEDGE BASE END ---
