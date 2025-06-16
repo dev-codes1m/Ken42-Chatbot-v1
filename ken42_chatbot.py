@@ -42,19 +42,41 @@ def save_chat_history(history):
     with open(CHAT_HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2)
 
-def get_response(user_input, chat_history):
+def get_response(user_input, chat_history, username):
     # Format the conversation history for the prompt
     conversation_history = "\n".join(
         [f"{msg['role'].capitalize()}: {msg['content']}" 
          for msg in chat_history[-10:]])  # Send last 10 messages for context
     
+    # Check if we need to ask follow-up questions
+    needs_follow_up = any(keyword in user_input.lower() for keyword in [
+        'eligibility', 'admission', 'requirements', 'criteria', 'b.tech', 'program', 'course'
+    ])
+    
     prompt = f"""
-    You are a helpful assistant for Ken42 University. Always refer to the Ken42 Data, never go outside this data even if user insists you.
+    You are a helpful admission counselor for Ken42 University. Always refer to the Ken42 Data, never go outside this data even if user insists you.
+    
+    Current User: {username}
     Ken42 Data: {ken42_kb}
     Conversation History: {conversation_history}
+    
+    Instructions:
+    1. For any academic program queries (especially B.Tech), always ask for:
+       - 10th percentage
+       - 12th percentage
+       - PCM/PCB percentage in 12th
+       - Preferred specialization (if applicable)
+    2. After getting these details, provide precise eligibility information
+    3. For scholarship queries, ask for:
+       - 10th and 12th marks
+       - Category (if applicable)
+       - Any special achievements
+    4. Be conversational and ask one follow-up question at a time
+    5. Never make up information not in the KB
+    
     Current Question: {user_input}
-    Answer:
     """
+    
     response = gemini.invoke(prompt)
     return response.content
 
@@ -161,6 +183,10 @@ def chat_interface():
     # Main chat area
     st.title("🎓 Ken42 Assistant")
     
+    # Initialize messages if not present
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+    
     # Display messages
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
@@ -182,7 +208,7 @@ def chat_interface():
 
         with st.chat_message("assistant"):
             with st.spinner("Thinking..."):
-                response = get_response(prompt, st.session_state.messages)
+                response = get_response(prompt, st.session_state.messages, st.session_state.username)
                 st.markdown(response)
 
         assistant_message = {
